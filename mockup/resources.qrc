@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>network schematic.png</file>
+    </qresource>
+</RCC>
